@@ -14,7 +14,7 @@ Utilizando a arquitetura MSC.
 ## Tecnologias usadas
 
 Back-end:
->  Tecnologias utilizadas no seu desenvolvimento;
+>  Tecnologias utilizadas no seu desenvolvimento:
    Node Js e banco de dados MongoDB.
 
 ## Instalando Dependências
@@ -28,6 +28,7 @@ npm install
 
 ## Conexão com o Banco
 
+*  É preciso ter o MongodDb instalado na maquina ou via docker(caso preferir) 
 *  Crie a variavel de acesso ao banco 
     Abra o  arquivo dot.env na raiz do projeto e preencha as seguintes informações 
     
