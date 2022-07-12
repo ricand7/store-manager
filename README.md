@@ -5,9 +5,9 @@
 
 # Contexto
 Utilizando a arquitetura MSC.
-    Sistema de gerenciamento de vendas, onde é possível criar, visualizar, deletar e atualizar produtos e vendas utilizando todas as camadas da API (Models, Services e Controllers).
-   Operações básicas: Criação, Leitura, Atualização e Exclusão (CRUD).
-   Banco: MongoDB para a gestão de dados. 
+    Sistema de gerenciamento de vendas, onde é possível criar, visualizar, deletar e atualizar produtos e vendas utilizando todas as camadas da API (Models, Services e Controllers).<br>
+   Operações básicas: Criação, Leitura, Atualização e Exclusão (CRUD).<br>
+   Banco: MongoDB para a gestão de dados.<br>
    Aplicação RESTful
 
 
@@ -30,9 +30,11 @@ npm install
 
 *  É preciso ter o MongodDb instalado na maquina ou via docker(caso preferir) 
 *  Crie a variavel de acesso ao banco 
-    Abra o  arquivo .env na raiz do projeto e preencha as seguintes informações 
+    Abra o  arquivo .env na raiz do projeto e preencha as seguintes informações:
     
+     ```
     HOST=localhost
+     ```
     
 ## Executando aplicação
 
