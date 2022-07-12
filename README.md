@@ -28,7 +28,7 @@ npm install
 
 ## Conexão com o Banco
 
-*  É preciso ter o MongodDb instalado na maquina ou via docker(caso preferir) 
+*  É preciso ter o MongodDb executando na maquina ou via docker(caso preferir) 
 *  Crie a variavel de acesso ao banco 
     Abra o  arquivo .env na raiz do projeto e preencha as seguintes informações:
     
