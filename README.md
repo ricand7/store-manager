@@ -50,7 +50,7 @@ npm install
   
 * Abra o programa Postman e faça as requisições:
 
->  Requisicao para Criar produto, tipo Post http://localhost:3000/products
+>  Requisição para Criar produto, tipo Post http://localhost:3000/products
       Exemplo de Json enviado no Body:
       
   ```
@@ -61,14 +61,14 @@ npm install
     
   ``` 
     
-> Requisicao para listar os produtos , tipo Get http://localhost:3000/products
+> Requisição para listar os produtos , tipo Get http://localhost:3000/products
   
   
   
-> Requisicao para listar o produto por id, tipo Get http://localhost:3000/products/iddoproduto
+> Requisição para listar o produto por id, tipo Get http://localhost:3000/products/iddoproduto
   
   
-> Requisicao para Atualizar o produto por id, tipo Put http://localhost:3000/products/iddoproduto  
+> Requisição para Atualizar o produto por id, tipo Put http://localhost:3000/products/iddoproduto  
     Exemplo de Json enviado no Body:
       
   ```
@@ -79,11 +79,11 @@ npm install
     
   ``` 
 
-> Requisicao para deletar o produto por id, tipo Delete http://localhost:3000/products/iddoproduto
+> Requisição para deletar o produto por id, tipo Delete http://localhost:3000/products/iddoproduto
   
 
   
-> Requisicao para cadastrar vendas , tipo Post http://localhost:3000/sales 
+> Requisição para cadastrar vendas , tipo Post http://localhost:3000/sales 
   Exemplo de Json enviado no Body:
   
    ```
@@ -95,13 +95,13 @@ npm install
   ]
  ```
  
-> Requisicao para listar as vendas , tipo Get http://localhost:3000/sales
+> Requisição para listar as vendas , tipo Get http://localhost:3000/sales
     
   
-> Requisicao para listar uma venda por id, tipo Get http://localhost:3000/sales/iddavenda
+> Requisição para listar uma venda por id, tipo Get http://localhost:3000/sales/iddavenda
   
   
-> Requisicao para atualizar uma venda , tipo Put http://localhost:3000/sales/iddavenda 
+> Requisição para atualizar uma venda , tipo Put http://localhost:3000/sales/iddavenda 
   Exemplo de Json enviado no Body:
   
    ```
@@ -114,7 +114,7 @@ npm install
   ]
  ```
  
-> Requisicao para deletar uma venda , tipo Delete http://localhost:3000/sales/iddavenda 
+> Requisição para deletar uma venda , tipo Delete http://localhost:3000/sales/iddavenda 
  
      
      
